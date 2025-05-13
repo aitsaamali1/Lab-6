@@ -9,6 +9,7 @@ class Program
         Console.WriteLine("1. book");
         Console.WriteLine("2. Notebook");
         Console.WriteLine("3. Eraser");
+        Console.WriteLine("4. copy");
         Console.WriteLine("4. Ruler");
         Console.WriteLine("5. Pencil");
     }
